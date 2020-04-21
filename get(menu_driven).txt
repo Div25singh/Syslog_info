@@ -24,7 +24,7 @@
  000021 answer = strip(answer)                                                  
  000022 Select                                                                  
  000023  When answer = 1 then 'exec ch15(ch1)'                                  
- 000024  When answer = 2 then 'exec ch15(ch7)'                                  
+ 000024  When answer = 2 then 'exec ch15(logged in users)'                                  
  000025  When answer = 3 then 'exec ch15(ch2)'                                  
  000026  when answer = 4 then 'exec ch15(ch4)'                                  
  000027  when answer = 5 then 'exec ch15(ch5)'                                  
